@@ -1,0 +1,6 @@
+torch==2.7.0+cu128
+torchvision==0.22.0
+numpy==1.26.2
+argparse
+Pillow==10.4.0
+pandas==2.0.3
